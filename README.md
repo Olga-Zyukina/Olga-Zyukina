@@ -29,7 +29,7 @@ ___
   <img src="https://github.com/Olga-Zyukina/Olga-Zyukina/blob/main/Web.jpg"  alt="Web" width="300"/>
   <img src="https://github.com/Olga-Zyukina/Olga-Zyukina/blob/main/JS.jpg"  alt="JS" width="300"/>
   <img src="https://github.com/Olga-Zyukina/Olga-Zyukina/blob/main/PHP.jpg"  alt="PHP" width="300"/>
-  <img src="https://github.com/Olga-Zyukina/Olga-Zyukina/blob/main/Git.jpg"  alt="Git" width="300"/>
   <img src="https://github.com/Olga-Zyukina/Olga-Zyukina/blob/main/SMM.jpg"  alt="SMM" width="300"/>
+  <img src="https://github.com/Olga-Zyukina/Olga-Zyukina/blob/main/Git.jpg"  alt="Git" width="300"/>
   <img src="https://github.com/Olga-Zyukina/Olga-Zyukina/blob/main/Figma.jpg"  alt="Figma" width="300"/>
 </div>
